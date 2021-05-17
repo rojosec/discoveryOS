@@ -4,10 +4,11 @@ discoveryOS es un script escrito en python que le permite descubrir la plataform
 
 ### USO
 
-1. aplicar permisos 
+1. aplicar permisos de ejecución
 
-` chmod +x dicoverOS.py `
+` chmod +x discoverOS.py `
 
 2. ejecucion
 
 ` ./discoverOS.py -t <direccion ip>`
+
